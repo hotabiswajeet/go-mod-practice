@@ -1,0 +1,3 @@
+{"name":"odo","roll":10,"sex":"male","class":"class II","marks":"60/100"}
+{"name":"litchu","roll":6,"sex":"female","class":"class II","marks":"90/100"}
+{"name":"malli","roll":21,"sex":"female","class":"class II","marks":"50/100"}
